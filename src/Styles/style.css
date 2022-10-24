@@ -1,0 +1,13 @@
+.highlight{
+    color: aliceblue;
+    background-color: aliceblue;
+}
+.navbar{
+    background-color: rgb(108, 107, 107);
+}
+.nav-link{
+    color:lightgray;
+}
+.back{
+    margin-top: 250px;
+}
